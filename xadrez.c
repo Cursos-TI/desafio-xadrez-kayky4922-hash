@@ -22,10 +22,10 @@ int main() {
 
     printf("\n");
 
- 
+    // ================================
     // TORRE - Direita
     // Estrutura: WHILE
-    
+    // ================================
 
     printf("Movimento da Torre:\n");
     int torre = 1;
